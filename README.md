@@ -1,9 +1,7 @@
 ﻿# Core to Advanced Java 🚀
 
-This repository contains my complete Java learning journey, from core concepts to advanced topics**.  
+This repository contains my complete Java learning journey, from core concepts to advanced topics.  
 I have implemented every example and solved 115 practice questions by myself.
-
----
 
 ## 📚 Topics Covered
 
@@ -21,7 +19,7 @@ I have implemented every example and solved 115 practice questions by myself.
 - Garbage Collection
 
 ### ✅ Advanced Concepts
-- **Exception Handling & File I/O**
+  - Exception Handling & File I/O**
   - try-catch-finally, throw/throws
   - Custom Exceptions
   - FileReader, FileWriter
@@ -42,16 +40,17 @@ I have implemented every example and solved 115 practice questions by myself.
 ## 📝 Practice Work
 - Solved 115 coding questions** for hands-on practice.
 - Each topic folder has small programs + exercises.
-- Focused mainly on **Core + Advanced Java concepts**.
+- Focused mainly on Core + Advanced Java concepts**.
 
 ---
 
 ## 🔗 Upcoming Work
-I am currently working on **Data Structures & Algorithms (DSA) in Java separately.  
-For that, a new dedicated repository will be created: **`DSA-with-Java`.  
+I am currently working on Data Structures & Algorithms (DSA) in Java separately.  
+For that, a new dedicated repository will be created:`DSA-with-Java`.  
 This way, core-to-advanced concepts stay separate from detailed DSA implementations.
 
 ---
 
  
+
 
