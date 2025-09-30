@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.iml" filepath="$PROJECT_DIR$/.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Basics/01-Basics.iml" filepath="$PROJECT_DIR$/01-Basics/01-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-user Input/02-user Input.iml" filepath="$PROJECT_DIR$/02-user Input/02-user Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-control flow/03-control flow.iml" filepath="$PROJECT_DIR$/03-control flow/03-control flow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Bitwise Operators/04-Bitwise Operators.iml" filepath="$PROJECT_DIR$/04-Bitwise Operators/04-Bitwise Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Methods/05-Methods.iml" filepath="$PROJECT_DIR$/05-Methods/05-Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-Arguments And Parameters/06-Arguments And Parameters.iml" filepath="$PROJECT_DIR$/06-Arguments And Parameters/06-Arguments And Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-Array and Strings/07-Array and Strings.iml" filepath="$PROJECT_DIR$/07-Array and Strings/07-Array and Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-Object oriented/08-Object oriented.iml" filepath="$PROJECT_DIR$/08-Object oriented/08-Object oriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-math and String/11-math and String.iml" filepath="$PROJECT_DIR$/11-math and String/11-math and String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-opps/12-opps.iml" filepath="$PROJECT_DIR$/12-opps/12-opps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Exception and file handling/13-Exception and file handling.iml" filepath="$PROJECT_DIR$/13-Exception and file handling/13-Exception and file handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-collection and generics/14-collection and generics.iml" filepath="$PROJECT_DIR$/14-collection and generics/14-collection and generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-multi Threading/15-multi Threading.iml" filepath="$PROJECT_DIR$/15-multi Threading/15-multi Threading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-functionProgramming/16-functionProgramming.iml" filepath="$PROJECT_DIR$/16-functionProgramming/16-functionProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-Exception and file handling/18-Exception and file handling.iml" filepath="$PROJECT_DIR$/18-Exception and file handling/18-Exception and file handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tasks/Tasks.iml" filepath="$PROJECT_DIR$/Tasks/Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-control flow/loops/loops.iml" filepath="$PROJECT_DIR$/03-control flow/loops/loops.iml" />
+    </modules>
+  </component>
+</project>

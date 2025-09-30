@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-user Input" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-control flow/if else" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-control flow/loops" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-Bitwise Operators" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-Methods" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06-Arguments And Parameters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07-Array and Strings" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/08-Object oriented" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/10-recursion/recursion" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/11-math and String" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/12-opps" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/13-Exception and file handling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/14-collection and generics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/15-multi Threading" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/16-functionProgramming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/18-Exception and file handling" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tasks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/core-to-advanced-java" vcs="Git" />
+  </component>
+</project>

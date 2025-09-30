@@ -1,0 +1,2 @@
+class searchIn2Darray {
+}
